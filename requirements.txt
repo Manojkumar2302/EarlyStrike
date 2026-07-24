@@ -1,0 +1,21 @@
+# EarlyStrike — Python dependencies
+# Install with: pip install -r requirements.txt
+
+flask>=2.3.0
+flask-cors>=4.0.0
+psutil>=5.9.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# File system watching (real-time file event detection)
+# Optional but strongly recommended — fallback polling is used if missing
+watchdog>=3.0.0
+
+# ML stack (needed if you have trained model .h5 files)
+tensorflow>=2.13.0
+
+# Visualisation (for evaluate/train scripts)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0
