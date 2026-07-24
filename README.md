@@ -153,7 +153,7 @@ EarlyStrike/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/EarlyStrike.git
+git clone https://github.com/Manojkumar2302/EarlyStrike.git
 cd EarlyStrike
 ```
 
