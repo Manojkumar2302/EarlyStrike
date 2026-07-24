@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.h5
+*.keras
+*.pkl
+
+# Databases
+*.db
+
+# Logs
+*.log
+
+# Dataset
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
